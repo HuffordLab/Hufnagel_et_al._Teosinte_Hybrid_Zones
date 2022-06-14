@@ -1,1 +1,0 @@
-"boxplotsColored.png" is a multipart figure consisting of A) A boxplot of altitudes for hybrid groups and parental teosinte, B) A boxplot of precipitation for hybrid groups and parental teosinte, and C) A boxplot of temperatures for hybrid groups and parental teosinte.
