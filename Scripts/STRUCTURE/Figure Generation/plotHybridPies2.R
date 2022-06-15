@@ -15,13 +15,6 @@ states=readShapePoly("Mexstates/mexstates.shp",proj4string=crswgs84,verbose=TRUE
 
 hybs = as.matrix(read.table("ZeaPopInfo.txt", sep="\t"))
 Hybs = data.frame(hybs)
-# CP = subset(Hybs, V4=="Central_Plateau")
-# CB = subset(Hybs, V4=="Central_Balsas")
-# SG = subset(Hybs, V4=="South_Guerrero")
-# Huitzuco = subset(Hybs, V9=="1225")
-# Other1 = subset(Hybs, is.na(V4))
-# Other2 = Other1[2:5,] #Other excluding Huitzuco
-
 
 plot.new()
 #plot big

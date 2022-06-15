@@ -1,0 +1,12 @@
+Wolfgruber functional centromere positions		
+chromosome	start (Mb)	stop (Mb)
+1	121	133.9
+2	89.3	101.6
+3	87.4	95.4
+4	71.8	105
+5	94.8	118.4
+6	31.8	50.4
+7	44.9	55.7
+8	45.9	80.7
+9	34.1	69.2
+10	37.1	60.7

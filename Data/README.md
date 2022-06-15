@@ -10,6 +10,8 @@ Data for "Genomic architectures of hybridization in newly identified teosinte hy
 
 "cbTeloHapmixProbs.txt" is the file containing HAPMIX ancestry probabilities for the CBG population Teloloapan
 
+"chosenCentCoords2.txt" contains the centromere coordinates used for masking
+
 "ebPasoHapmixProbs.txt" is the file containing HAPMIX ancestry probabilities for the EBG population Paso Morelos
 
 "sgChilpHapmixProbs.txt" is the file containing HAPMIX ancestry probabilities for the SGG population Chilpancingo

@@ -2,6 +2,4 @@
 
 "altVSNP.pdf" is a plot of altitude plotted against inversion the top inversion (inv4m) SNP for teosinte populations.
 
-"inv4mHapTable.png" is a table of inversion (inv4m) haplotypes for various groups.
-
-"inv4mSNPtable.png" is a table of the top inversion (inv4m) SNP for various groups.
+"inv4mtables.png" is A) a table of inversion (inv4m) haplotypes for various groups and B) a table of the top inversion (inv4m) SNP for various groups.
